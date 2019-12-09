@@ -1,0 +1,2 @@
+# Resolution-detection
+Resolution detection
